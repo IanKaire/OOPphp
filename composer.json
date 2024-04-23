@@ -1,0 +1,15 @@
+{
+    "name": "ikaire/oop",
+    "description": "A mini PHP project about O.O.P",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ian Kaire"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "monolog/monolog": "^3.6"
+    }
+}
